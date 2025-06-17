@@ -73,6 +73,11 @@ Platform Used
 
 The script uses hardcoded wordlists for usernames, passwords, and directories, but these can be easily modified or replaced with external files.
 
+Output:
+
+Port Scanner:
+![Image](https://github.com/user-attachments/assets/d74dc42b-9dbc-434d-ac6c-689d8a6e53d5)
+
 
     
 
