@@ -83,6 +83,9 @@ Brute Force Login
 
 ![Image](https://github.com/user-attachments/assets/4c86620a-4754-4994-9269-837066705db4)
 
+Directory Enumerator 
+
+![Image](https://github.com/user-attachments/assets/3c25477d-14f7-4ce5-af0f-d2a6ed1a4ab9)
 
     
 
